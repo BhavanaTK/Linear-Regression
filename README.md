@@ -1,2 +1,2 @@
 # Linear-Regression
-Simple Linear Regression using Marketing data
+Simple Linear Regression using TV Marketing data
